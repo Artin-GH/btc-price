@@ -1,2 +1,2 @@
 # btc-price
-Shows the bcc price
+Shows the btc price
